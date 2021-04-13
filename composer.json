@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "2.2.1",
+        "twbs/bootstrap": "^4.6"
+    }
+}
